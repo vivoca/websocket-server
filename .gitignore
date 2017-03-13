@@ -1,0 +1,7 @@
+
+.idea/
+lib/
+out/
+src/main/resources/
+src/test/
+target/
